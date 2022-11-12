@@ -1,0 +1,49 @@
+.lab {
+  font-size: 4rem;
+}
+
+.iconclr1 {
+  color: #1da1f2;
+}
+.iconclr2 {
+  color: #1769ff;
+}
+.iconclr3 {
+  color: #1877f2;
+}
+.iconclr4 {
+  color: #162221;
+}
+.iconclr5 {
+  color: #fffc00;
+}
+.iconclr6 {
+  color: #fd5c63;
+}
+.iconclr7 {
+  color: #ff9900;
+}
+.iconclr8 {
+  color: #a4c639;
+}
+.iconclr9 {
+  color: #f48024;
+}
+.iconclr10 {
+  color: #dd4814;
+}
+.iconclr11 {
+  color: #333;
+}
+.iconclr12 {
+  color: #f7df1e;
+}
+
+section {
+  max-width: 80%;
+  margin: 10rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}/*# sourceMappingURL=style.css.map */

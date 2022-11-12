@@ -1,0 +1,55 @@
+$twitterColor: #1da1f2;
+$behanceColor: #1769ff;
+$facebookrColor: #1877f2;
+$vimeoColor: #162221;
+$snapchatColor: #fffc00;
+$airbnbColor: #fd5c63;
+$amazonColor: #ff9900;
+$androidColor: #a4c639;
+$stackoverflowColor: #f48024;
+$ubuntuColor: #dd4814;
+$gitbubColor: #333;
+$javascriptColor: #f7df1e;
+
+.lab {
+    font-size: 4rem;
+}
+
+.icon {
+    &clr1 {
+        color: $twitterColor;
+    }
+    &clr2 {
+        color: $behanceColor;
+    }
+    &clr3 {
+        color: $facebookrColor;
+    }
+    &clr4 {
+        color: $vimeoColor;
+    }
+    &clr5 {
+        color: $snapchatColor;
+    }
+    &clr6 {
+        color: $airbnbColor;
+    }
+    &clr7 {
+        color: $amazonColor;
+    }
+    &clr8 {
+        color: $androidColor;
+    }
+    &clr9 {
+        color: $stackoverflowColor;
+    }
+    &clr10 {
+        color: $ubuntuColor;
+    }
+    &clr11 {
+        color: $gitbubColor;
+    }
+    &clr12 {
+        color: $javascriptColor;
+    }
+}
